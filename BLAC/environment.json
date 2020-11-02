@@ -1,0 +1,134 @@
+{
+	"id": "758cdbf3-28b2-4e45-981a-f23b0ff631d9",
+	"name": "Blackjack",
+	"values": [
+		{
+			"key": "AdminPanel_login",
+			"value": "base_user@leap-gaming.com",
+			"enabled": true
+		},
+		{
+			"key": "AdminPanel_pass",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "AdminPanel_cookies",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "platform_token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "player_token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "platform_token_country",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "player_id_random",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "chip200",
+			"value": "200",
+			"enabled": true
+		},
+		{
+			"key": "chip201",
+			"value": "201",
+			"enabled": true
+		},
+		{
+			"key": "country_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "game_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "higher_rule_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "lower_rule_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "skin_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "skin_id_1",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "skin_rule_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "currency_id",
+			"value": "GBP",
+			"enabled": true
+		},
+		{
+			"key": "bet1_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "bet2_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "bet3_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "balance",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "stake.min_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "stake.max_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "exchange_rate",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "tableMinMax_id",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-12-03T10:00:17.692Z",
+	"_postman_exported_using": "Postman/7.12.0"
+}
